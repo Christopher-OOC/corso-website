@@ -1,0 +1,15 @@
+{
+  "name": "bs-5-simple-starter",
+  "version": "1.0.0",
+  "description": "This is a starter project",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "author": "Olojede Christopher",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.81.0"
+  }
+}
